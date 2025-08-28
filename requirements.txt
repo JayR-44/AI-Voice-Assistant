@@ -1,0 +1,10 @@
+# requirements.txt - Python dependencies for AI Voice Agent
+# Compatible with Python 3.12
+
+
+# Environment variables
+python-dotenv==1.0.1
+
+# HTTP 
+requests==2.32.3
+
